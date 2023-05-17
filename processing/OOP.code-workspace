@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../../OOP"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp"
+		}
+	}
+}
