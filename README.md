@@ -1,6 +1,7 @@
 # Binary-Tree-report
 Compare the height of two types of Binary Tree: AVL Tree and Black - White Tree
-<img src="result/COMPARE.jpg">
+
+<img src="result/COMPARE.jpg" style="width=30%, text-aline:center">
 
 # Folder management
 1. The source of AVL and Black-Red Tree were built as modulo(C) and its in <a href="https://github.com/trannhatkhoacm1612/Binary-Tree-report/tree/main/modulo">modulo</a> folder.
